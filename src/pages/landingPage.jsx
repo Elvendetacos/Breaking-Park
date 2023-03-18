@@ -1,6 +1,6 @@
 import Header from "../components/header";
 import Body from "../components/body";
-import jaja from "../assets/img/xd.png";
+import jaja from "../assets/img/xd.png";    
 function App() {
     return (
         <>
