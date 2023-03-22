@@ -19,7 +19,7 @@ function App() {
         </Header>
         <Body>
 <div className="bg-[#171B26]">
-    <div className=" lg:ml-8 lg:mr-8">
+<div className=" lg:ml-8 lg:mr-8">
         
     <div className="grid lg:grid-cols-12 lg:h-[748px] lg:grid-rows-3 lg:gap-8  sm:grid-cols-4 sm:gap-4 ">
         <div className="lg:col-span-12 lg:col-start-1 flex justify-center items-center">
