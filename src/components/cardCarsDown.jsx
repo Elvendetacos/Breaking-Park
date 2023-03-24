@@ -9,7 +9,7 @@ function CardCarsDown({ item, state, setModal, setLocation }) {
   };
   return (
     <>
-      <div className="col-span-1 h-full lg:col-span-1 lg:h-full bg-gradient-to-b from-[#263744] rounded-xl">
+      <div className="lg:col-start-3 col-span-1 h-full lg:col-span-1 lg:h-full bg-gradient-to-b from-[#263744] rounded-xl">
         {state ? (
           <div className="flex justify-center items-center pt-8 pb-4 w-full lg:pt-8 lg:pb-4 lg:w-full h-[70%]">
             <img
