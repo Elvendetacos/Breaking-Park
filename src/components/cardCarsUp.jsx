@@ -10,7 +10,7 @@ function CardCarsUp({ item, state, setModal, setLocation }) {
 
   return (
     <>
-      <div className="col-span-1 h-full lg:col-span-1 lg:h-full bg-gradient-to-b from-[#263744] rounded-xl">
+      <div className="lg:col-start-3 col-span-1 h-full lg:col-span-1 lg:h-full bg-gradient-to-b from-[#263744] rounded-xl">
         <div className="h-[30%] w-full">
           <button
             onClick={openModal}

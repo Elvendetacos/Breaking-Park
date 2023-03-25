@@ -78,7 +78,7 @@ function reservation() {
         </div>
       </Header>
       <Body>
-        <div className="ml-4 mr-4 grid-cols-4 gap-4 h-[60px] lg:ml-[32px] lg:mr-[32px] lg:gap-8 lg:h-[100px] grid lg:grid-cols-12 c">
+        <div className="ml-4 mr-4  grid-cols-4 gap-4 h-[60px] lg:ml-[32px] lg:mr-[32px] lg:gap-8 lg:h-[100px] grid lg:grid-cols-12 c">
           <div className="lg:col-start-1 lg:col-span-1 flex justify-center items-center">
             <img
               src={Arrow}
